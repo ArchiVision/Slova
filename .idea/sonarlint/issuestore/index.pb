@@ -1,27 +1,13 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-]
--src/main/java/org/archivision/slova/Main.java,e\0\e0e92e24baef2daea73d1f9bb5647b29467ea929
-A
-theatetus/pom.xml,3\9\39af174551f7c43c9ec5de9ad459af1dace7c858
-]
--theatetus/src/main/java/org/example/Main.java,9\8\9800ded9920ee2ed375cc2a14c742e4253e974b5
 B
 theaetetus/pom.xml,5\4\545ca58d8a326815cbef0454c480df4049395b97
-h
-8theaetetus/src/main/java/org/archivision/slova/Main.java,9\f\9f6b308ce872933aa9b2ba5bdcef4689e61e3f83
-q
-Atheaetetus/src/main/java/org/archivision/slova/theaetus/Main.java,f\2\f2027c6de4bd1db7f3fac378dd31de448dc2a1dd
 s
 Ctheaetetus/src/main/java/org/archivision/slova/theaetetus/Main.java,6\3\63547333540fc6137de13d666bf87c1c71b130bd
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-A
-theaetetu/pom.xml,e\2\e20c840426dceaa296d6c781789f7e3f1db33c70
 w
 G.idea/sonarlint/issuestore/3/9/39af174551f7c43c9ec5de9ad459af1dace7c858,4\b\4bbed6bfe73f3d4476ecb3fc28f37385d786b5d3
 w
@@ -46,3 +32,11 @@ w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
+Ö
+Utheaetetus/src/test/java/org/archivision/slova/theaetetus/SpellingAndGrammarTest.java,5\4\54357d76560316d0e1e6a9c0845ba4cc22cd8df3
+~
+Ntheaetetus/src/test/java/org/archivision/slova/theaetetus/util/TextLoader.java,c\7\c73a6ebe8921ade6e9ea36329344fccc8f824e25
+y
+Itheaetetus/src/main/java/org/archivision/slova/theaetetus/TextLoader.java,1\3\13a3328f6917c12db684386bd8c91e9863d7b5d9
+~
+Ntheaetetus/src/main/java/org/archivision/slova/theaetetus/util/TextLoader.java,d\b\db051ded0514fb89a4f7e466d46cda3380cd7470
